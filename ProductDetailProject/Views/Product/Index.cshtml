@@ -1,0 +1,56 @@
+﻿@model PagedList.IPagedList<ProductDetailProject.Models.ProductTable>
+
+@using ProductDetailProject.Models;
+@using PagedList;
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    .image {
+        background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
+    }
+</style>
+<body class="image">
+
+    <center><h2><u>Product Table</u></h2></center>
+    <h4>
+        <b>
+            @Html.ActionLink("Insert New", "Create")
+        </b>
+    </h4>
+    <br />
+    <table class="table table-striped">
+        <tr>
+            <th>ProductID</th>
+            <th>ProductName</th>
+            <th>CategoryId</th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
+                <td>@item.CategoryId</td>
+
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }) ||
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ProductId })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <div>
+        page @(Model.PageCount <Model.PageNumber ?0:Model.PageNumber)/@Model.PageCount
+    </div>
+    <div>
+        @Html.PagedListPager(Model, page => Url.Action("Index", new {page=page}))
+    </div>
+
+</body>

@@ -1,0 +1,59 @@
+﻿
+@model PagedList.IPagedList<ProductDetailProject.Models.ShowData>
+@using ProductDetailProject.Models;
+@using PagedList;
+@using PagedList.Mvc;
+
+
+@{
+    ViewBag.Title = "ProductList";
+}
+
+<style>
+    .image {
+        background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
+    }
+</style>
+<body class="image">
+
+    <center><h2><u>Product List</u></h2></center>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Category Id</th>
+                <th>Category Name</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @{
+                foreach (ShowData item in Model)
+                {
+                    <tr>
+                        <td>@item.ProductId</td>
+                        <td>@item.ProductName</td>
+                        <td>@item.CategoryId</td>
+                        <td>@item.CategoryName</td>
+                    </tr>
+
+
+
+                }
+
+            }
+        </tbody>
+
+    </table>
+
+    <div>
+        page @(Model.PageCount <Model.PageNumber ?0:Model.PageNumber)/@Model.PageCount)
+    </div>
+    <div>
+        @Html.PagedListPager(Model, page => Url.Action("ProductList", new { page = page }))
+    </div>
+
+
+</body>

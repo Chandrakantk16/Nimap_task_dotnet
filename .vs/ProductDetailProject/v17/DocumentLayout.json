@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductDetailProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:14:44.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

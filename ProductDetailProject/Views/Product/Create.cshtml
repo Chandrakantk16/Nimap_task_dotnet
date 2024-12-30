@@ -1,0 +1,41 @@
+﻿@model ProductDetailProject.Models.ProductTable
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+    .image {
+        background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
+    }
+</style>
+<body class="image">
+
+    <h2>Insert New Product</h2>
+
+    @Html.Raw(ViewBag.CreateMessage)
+
+    <br />
+    <form method="POST" action="/Product/Create">
+
+        <div class="form-group">
+            <label for="ProductName">Product Name:</label>
+            <input type="text" class="form-control" id="ProductName" name="ProductName">
+        </div>
+        <div class="form-group">
+            <label for="CategoryId">Category Id:</label>
+            <input type="text" class="form-control" id="CategoryId" name="CategoryId">
+        </div>
+        <button type="submit" class="btn btn-default">Insert</button>
+    </form>
+    <br />
+    <h4>
+        <b>
+            @Html.ActionLink("View Product Table", "Index")
+        </b>
+    </h4>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+    </body>

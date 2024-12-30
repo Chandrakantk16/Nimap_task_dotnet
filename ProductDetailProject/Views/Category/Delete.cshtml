@@ -1,0 +1,36 @@
+﻿@model ProductDetailProject.Models.CategoryTable
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<style>
+    .image {
+        background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
+    }
+</style>
+<body class="image">
+
+
+    <h2>Delete</h2>
+
+    <h3>Are you sure you want to delete this?</h3>
+    <div>
+
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Yes" class="btn btn-default" /> 
+                <br />
+                <h4>
+                    <b>
+                        @Html.ActionLink("No, Go Back", "Index")
+                    </b>
+                </h4>
+            </div>
+        }
+    </div>
+</body>
