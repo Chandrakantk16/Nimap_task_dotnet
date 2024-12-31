@@ -9,29 +9,34 @@
         background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
     }
 </style>
-<body class="image">
 
+<body class="image">
     <h2>Insert New Category</h2>
 
-   
-    <br />
-    <form method="POST" action="/Category/insert">
+    <div class="form-container">
+        @using (Html.BeginForm("Insert", "Category", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
 
-        <div class="form-group">
-            <label for="CategoryName">Category Name:</label>
-            <input type="text" class="form-control" id="CategoryName" name="CategoryName">
-        </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.CategoryName, "Category Name:", new { @class = "control-label" })
+                @Html.EditorFor(model => model.CategoryName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CategoryName, "", new { @class = "text-danger" })
+            </div>
 
-        <button type="submit" class="btn btn-default">Insert Category</button>
-    </form>
-    <br />
-    <h4>
-        <b>
-            @Html.ActionLink("View Category Table", "Index")
-        </b>
-    </h4>
+            <button type="submit" class="btn btn-default">Insert Category</button>
+        }
+    </div>
+
+    <div class="text-center">
+        <h4>
+            <b>
+                @Html.ActionLink("View Category Table", "Index", null, new { @class = "btn btn-default" })
+            </b>
+        </h4>
+    </div>
 
     @section Scripts {
         @Scripts.Render("~/bundles/jqueryval")
     }
-   </body>
+</body>

@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\views\\category\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\category\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|c:\\users\\shaurya kushwaha\\desktop\\nimap_dotnet_task\\productdetailproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\productdetailproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\productdetailproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\productdetailproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\productdetailproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642E529F-2028-4FD0-AB4B-029AA0DC999B}|ProductDetailProject\\ProductDetailProject.csproj|solutionrelative:productdetailproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +58,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:54:09.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAgAAABAmZmZmZkuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:57:12.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAByPQoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:49:03.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductDetailProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:45:20.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Category\\Insert.cshtml",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Category\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Category\\Insert.cshtml",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Category\\Insert.cshtml",
+              "ViewState": "AQIAAAMAAAAgNDMzMzMrwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:43:41.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAMDMzMzP7vwgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T11:32:28.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProductDetailProject\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAADgAAAAgUDMzMzMowGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T11:31:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Web.config",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Web.config",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Web.config",
+              "RelativeToolTip": "ProductDetailProject\\Web.config",
+              "ViewState": "AQIAADsAAACAm5mZmdkhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-30T17:50:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Global.asax.cs",
+              "RelativeToolTip": "ProductDetailProject\\Global.asax.cs",
+              "ViewState": "AQIAAA8AAADgMjMzMzMqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:50:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Views\\Web.config",
+              "RelativeToolTip": "ProductDetailProject\\Views\\Web.config",
+              "ViewState": "AQIAACAAAAAANDMzMzMLwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-30T17:50:10.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ProductDetailProject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ProductDetailProject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:49:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Shaurya Kushwaha\\Desktop\\Nimap_Dotnet_Task\\ProductDetailProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProductDetailProject\\Controllers\\HomeController.cs",

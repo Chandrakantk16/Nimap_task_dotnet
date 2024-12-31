@@ -4,23 +4,21 @@
     ViewBag.Title = "Edit";
 }
 
-
 <style>
     .image {
         background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg');
     }
 </style>
+
 <body class="image">
-
-    <h2>Edit</h2>
-
+    <h2>Edit Category</h2>
 
     @using (Html.BeginForm())
     {
         @Html.AntiForgeryToken()
 
         <div class="form-horizontal">
-            <h4>CategoryTable</h4>
+            <h4>Edit Category Details</h4>
             <hr />
             @Html.ValidationSummary(true, "", new { @class = "text-danger" })
             @Html.HiddenFor(model => model.CategoryId)
@@ -35,17 +33,17 @@
 
             <div class="form-group">
                 <div class="col-md-offset-2 col-md-10">
-                    <input type="submit" value="Edit" class="btn btn-default" />
+                    <input type="submit" value="Save Changes" class="btn btn-default" />
                 </div>
             </div>
         </div>
     }
 
-    <div>
-        @Html.ActionLink("Back to List", "Index")
+    <div class="text-center">
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
     </div>
 
     @section Scripts {
         @Scripts.Render("~/bundles/jqueryval")
     }
-    </body>
+</body>
